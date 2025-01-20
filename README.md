@@ -1,3 +1,27 @@
-# 🌱 Bae Jin Ho 🌱
+ 안녕하세요. **배진호**입니다. 저는 이렇게 살고있어요.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=car584)](https://solved.ac/car584/)                 //since 2023.01.12
+---
+
+### BCSD Lab 교내 IT 동아리 / 2023.03 ~  현재   
+- **Koin** : 대학교 주변식당, 학식, 공지사항, 버스 정보 공유 커뮤니티   
+- MAU 3,300명 이상 실서비스 운영 중   
+
+---
+   
+### Plinqer  -  단기 인턴 실습                                                                         2024.12 ~ 2025.01   
+- **Photoism** - 무인 촬영 부스를 통해 즐거운 사진 경험 제공 서비스    
+
+---
+   
+### Software Maestro  -  정부 프로그램 15기                                           2024.04 ~ 2024.11   
+- **OatNote** - LLM기반 메모 자동 요약정리와 검색 정보 관리 서비스   
+
+---
+   
+### 씨앗  -  교내 알고리즘 학술 소모임                                                             2023.07 ~ 2024.07   
+- 회장직을 맡아 70+명 교육생 대상으로 알고리즘 교육   
+- 컴퓨터공학과 프로그래밍 경시대회 개최 및 문제 출제   
+- 제 10, 11회 코리아텍 프로그래밍 경시대회 대상 수상 (참가자 180+명)   
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=car584)](https://solved.ac/car584/)      
