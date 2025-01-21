@@ -1,6 +1,7 @@
+  
 안녕하세요. **배진호** 입니다.🙌   
-
-
+<img src="https://github.com/user-attachments/assets/48965ce5-5708-4854-a8f3-395040835056" width="200px" />   
+  
 ## 🐜 저는 이렇게 살고있어요. 🐜   
 
 ### 💜 BCSD Lab  - 교내 IT 동아리
