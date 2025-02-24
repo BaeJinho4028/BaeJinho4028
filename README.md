@@ -28,6 +28,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=car584)](https://solved.ac/car584/)
   
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Baejinho4028&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baejinho4028&layout=compact&theme=vue)
+
+
   
 ## 🛠 Tech Stack 🛠
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
