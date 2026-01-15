@@ -12,7 +12,7 @@ Backend Engineer · DevOps Engineer
    
 #### 💙 Plinqer - 단기 인턴 실습
 > **Photoism** — 포토이즘 무인 촬영 부스를 통해 즐거운 사진 경험 제공 서비스 (2024.12 - 2025.01)   
-> **서버팀 인턴** /  `Spring Boot`, `Java`, `MySQL`, `Redis`, `Datadog`   
+> **서버팀 인턴** /  `Spring Boot`, `Java`, `MySQL`
 > 포토이즘 연예인 테마 AI VOICE CLONE 기능 개발  
 
    
